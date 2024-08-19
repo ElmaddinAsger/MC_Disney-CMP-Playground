@@ -1,3 +1,4 @@
+#This project is shared here to be re-read, learnt and reinforced by writing from scratch more than once.
 This is a Compose Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
